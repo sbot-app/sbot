@@ -1,0 +1,2 @@
+# sbot
+sbot init
